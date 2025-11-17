@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+  background-color: #edf2c7;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+header {
+  background-color: #f53494;
+  color: white;
+  padding: 30px;
+}
+
+nav a {
+  color: white;
+  margin:0 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+/* Main heading style */
+h1 {
+  color: rgb(21, 3, 16); /* Makes headings dark blue */
+  margin-top: 50px; /* Adds space above the heading */
+}
+
+/* Paragraph text style */
+p {
+  color: #333; /* Dark gray text color (easier on eyes than pure black) */
+  font-size: 18px; /* Increases font size */
+  margin: 10px 50px; /* Adds vertical (10px) and horizontal (50px) spacing */
+}
